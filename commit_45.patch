@@ -1,0 +1,21 @@
+Index: src/com/it/task2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/it/task2.java	(revision 07bd86fae8a466c99f5eeafa5537e64436a8db5b)
++++ src/com/it/task2.java	(date 1583567783683)
+@@ -2,6 +2,13 @@
+ 
+ public class task2 {
+     public static void main(String[] args){
++        System.out.println("Hi");
++        System.out.println("Hi");
++        System.out.println("Hi");
++        System.out.println("Hi");
++        System.out.println("Hi");
++        System.out.println("Hi");
++
+ 
+     }
+ }
