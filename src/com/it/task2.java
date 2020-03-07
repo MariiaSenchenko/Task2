@@ -11,6 +11,8 @@ public class task2 {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
+        int b = 11;
+
 
 
     }
